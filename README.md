@@ -20,4 +20,4 @@
 ## [Auth API](https://github.com/amazeen/auth-api/wiki)
 ## [Data DB](./docs/data-db.md)
 ## [Auth DB](./docs/auth-db.md)
-## [Message Bus](./docs/messase-bus.md)
+## [Message Bus](./docs/message-bus.md)
