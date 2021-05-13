@@ -1,19 +1,27 @@
 # Auth DB
 
-PostgreSQL has been chosen as db
+MongoDB has been chosen as db
 
 ## Structure
 
 ### Users
 ```
-username: String primary key
-hash: Hash not null
-roles: String foreign key
+{
+  "_id": {"$oid": Auto id},
+  "username": String,
+  "password": Hash,
+  "role": String nullable,
+  "email": String nullable,
+  "phone": Integer nullable
+}
 email: string
 ```
 
 ### Roles
 ```
-name: String primary key
-permissions: array[String] not null 
+{
+  "_id":{"$oid": Auto id},
+  "persissions":[String],
+  "role": String
+}
 ```
