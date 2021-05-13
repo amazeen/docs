@@ -14,7 +14,6 @@ MongoDB has been chosen as db
   "email": String nullable,
   "phone": Integer nullable
 }
-email: string
 ```
 
 ### Roles
