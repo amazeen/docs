@@ -38,7 +38,7 @@
 ### New Reading Received
 ```
 {
-    type: 'reading:new'
+    type: 'parameter:new'
     data: {
         area: Integer
         silo: Integer
@@ -53,7 +53,7 @@
 ### Threshold Reached
 ```
 {
-    type: 'reading:threshold-reached'
+    type: 'parameter:threshold-reached'
     data: {
         area: Integer
         silo: Integer
@@ -61,18 +61,5 @@
         value: Double
     }
     
-}
-```
-
-### Sensor Offline (Optional)
-```
-{
-    type: 'sensor:offline'
-    data: {
-        area: Integer
-        silo: Integer
-        type: String
-        identifier: String
-    }
 }
 ```
