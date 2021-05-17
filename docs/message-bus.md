@@ -38,7 +38,7 @@
 ### New Reading Received
 ```
 {
-    type: 'parameter:new'
+    type: 'parameter:reading'
     data: {
         area: Integer
         silo: Integer
