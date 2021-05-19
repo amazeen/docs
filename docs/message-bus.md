@@ -12,11 +12,12 @@
 ### Admin users list Response
 ```
 {
-    type: 'admin:response-list'
+    type: 'admin:list'
     data: [
         {
             username: String
             email: String
+            phone: String
         }
     ]
 }
@@ -30,6 +31,7 @@
     data: {
         username: String
         email: String
+        phone: String
     }
     
 }
