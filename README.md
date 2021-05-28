@@ -4,7 +4,7 @@
 
 | Name                  | Mail                                              | Role               | Github account                                        |
 | --------------------- |:-------------------------------------------------:| ------------------:|  ----------------------------------------------------:|
-| Bovolato Nicola       | nicola.bovolato@stud.tecnicosuperiorekennedy.it   | Solution architect | [Nicola Bovolato](https://github.com/nicola-bovolato) |
+| Bovolato Nicola       | nicola.bovolato@stud.tecnicosuperiorekennedy.it   | Solution architect | [nicola-bovolato](https://github.com/nicola-bovolato) |
 | De Toni Sebastiano    | sebastiano.detoni@stud.tecnicosuperiorekennedy.it | Ex-membro          |                                                       |
 | Donadel Riccardo      | riccardo.donadel@stud.tecnicosuperiorekennedy.it  | Rappresentante     | [DemonDonny3](https://github.com/DemonDonny3)         |
 | Furlan Giulio         | giulio.furlan@stud.tecnicosuperiorekennedy.it     | Ex-membro          |                                                       |
